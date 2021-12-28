@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @twillia7
+- 👋 Hi, I’m Taylor
 - 👀 I’m interested in Full-Stack Web Development
 - 🌱 I’m currently learning MERN stack development
 - 📫 How to reach me: www.linkedin.com/in/williamstm96
